@@ -1,0 +1,7 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\bin\Debug\DepartmentStore5.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\bin\Debug\DepartmentStore5.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\bin\Debug\SalesRecord.dll
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\bin\Debug\SalesRecord.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\obj\x86\Debug\DepartmentStore5.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore5\obj\x86\Debug\DepartmentStore5.pdb

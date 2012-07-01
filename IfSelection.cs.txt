@@ -1,0 +1,7 @@
+Can be compiled by typing in the following command-line:
+
+csc ifselection.cs
+
+Can run executable program by typing in the following command-line:
+
+ifselection.exe

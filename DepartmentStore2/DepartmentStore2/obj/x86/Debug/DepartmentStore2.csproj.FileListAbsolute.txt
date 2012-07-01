@@ -1,0 +1,5 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore2\bin\Debug\DepartmentStore2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore2\bin\Debug\DepartmentStore2.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore2\obj\x86\Debug\DepartmentStore2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\DepartmentStore2\obj\x86\Debug\DepartmentStore2.pdb

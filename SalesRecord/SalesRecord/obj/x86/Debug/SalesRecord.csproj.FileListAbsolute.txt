@@ -1,0 +1,5 @@
+C:\Users\Owner\Projects\CSharp\SalesRecord\SalesRecord\bin\Debug\SalesRecord.dll
+C:\Users\Owner\Projects\CSharp\SalesRecord\SalesRecord\bin\Debug\SalesRecord.pdb
+C:\Users\Owner\Projects\CSharp\SalesRecord\SalesRecord\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Projects\CSharp\SalesRecord\SalesRecord\obj\x86\Debug\SalesRecord.dll
+C:\Users\Owner\Projects\CSharp\SalesRecord\SalesRecord\obj\x86\Debug\SalesRecord.pdb

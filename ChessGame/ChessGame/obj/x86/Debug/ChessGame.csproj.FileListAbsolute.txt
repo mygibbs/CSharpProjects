@@ -1,0 +1,9 @@
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\bin\Debug\ChessGame.exe
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\bin\Debug\ChessGame.pdb
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\ChessGame.Form1.resources
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\ChessGame.Properties.Resources.resources
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\ChessGame.exe
+C:\Users\Owner\Projects\CSharp\ChessGame\ChessGame\obj\x86\Debug\ChessGame.pdb

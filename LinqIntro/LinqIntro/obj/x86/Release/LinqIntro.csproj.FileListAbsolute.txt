@@ -1,0 +1,10 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\Project1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.pdb
+C:\Users\Owner\Projects\CSharp\LinqIntro\LinqIntro\bin\Release\LinqIntro.exe
+C:\Users\Owner\Projects\CSharp\LinqIntro\LinqIntro\bin\Release\LinqIntro.pdb
+C:\Users\Owner\Projects\CSharp\LinqIntro\LinqIntro\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\Projects\CSharp\LinqIntro\LinqIntro\obj\x86\Release\LinqIntro.exe
+C:\Users\Owner\Projects\CSharp\LinqIntro\LinqIntro\obj\x86\Release\LinqIntro.pdb
